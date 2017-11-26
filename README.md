@@ -16,6 +16,7 @@
 - lier le compte à la machine : `git config --global --edit`
 - ou lier le user name `git config --global user.name "John Doe"`
 - et lier le user email `git config --global user.email johndoe@example.com`
+- [Why is Git always asking for my password?](https://help.github.com/articles/why-is-git-always-asking-for-my-password/)
 - aide : `git help <verbe>`
 
 ### Initialiser un repository
